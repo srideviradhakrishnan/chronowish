@@ -36,10 +36,6 @@ Windows: Use Task Scheduler to run the script daily.
 Linux/Mac: Use a cron job (crontab -e).
 
 
-📷 Screenshots (Optional)
-
-(Add an image of the WhatsApp message being sent!)
-
 📌 Contributing
 
 Want to improve ChronoWish? Fork this repo, add features, and create a pull request!
